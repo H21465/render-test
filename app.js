@@ -13,7 +13,7 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>こんにちは世界，ここはあたらしい世界だよ</title>
+    <title>こんにちは世界，ここはあたらしい世界だよ，これたかな？</title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
